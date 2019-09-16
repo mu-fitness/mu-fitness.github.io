@@ -1,1 +1,1 @@
-# mu-fitness.github.io
+# mu-fitness-landing
